@@ -1,19 +1,11 @@
-<<<<<<< HEAD
-#Mon Jan 13 14:03:45 IST 2020
+#Mon Jan 13 16:32:30 IST 2020
 vl=How many times the 'Finish' button pressed during the day
 l=Wizard class name
 ct=jbt
-d=1578904425886
-=======
-#Mon Jan 13 13:55:03 IST 2020
-vl=How many times the 'Finish' button pressed during the day
-l=Wizard class name
-ct=jbt
-d=1578903903841
->>>>>>> Ratikanta1.0
+d=1578913350370
 c=0
 cmp=usage
 a=finishWizard
 cl=org.eclipse.jdt.internal.ui.wizards.NewClassCreationWizard
 v=2.1.1
-s=0
+s=1
