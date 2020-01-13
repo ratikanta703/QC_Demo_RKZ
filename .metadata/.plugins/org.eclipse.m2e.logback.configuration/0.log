@@ -3305,3 +3305,11 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-01-13 14:31:58,553 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Demo_RKZ\RKZ_ILP\src\main\resources
 2020-01-13 14:31:58,555 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-13 14:31:58,556 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Demo_RKZ\RKZ_ILP\src\test\resources
+2020-01-13 14:41:35,088 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-13 14:41:35,092 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Demo_RKZ\RKZ_ILP\src\main\resources
+2020-01-13 14:41:35,094 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-13 14:41:35,094 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Demo_RKZ\RKZ_ILP\src\test\resources
+2020-01-13 14:41:48,479 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-13 14:41:48,479 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Demo_RKZ\RKZ_ILP\src\main\resources
+2020-01-13 14:41:48,480 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-13 14:41:48,481 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Demo_RKZ\RKZ_ILP\src\test\resources

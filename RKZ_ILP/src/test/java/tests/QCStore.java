@@ -1,6 +1,8 @@
 package tests;
 //line added
 //second line added
+//3rd line
+//4th line
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
