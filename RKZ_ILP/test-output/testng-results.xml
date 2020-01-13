@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52078" started-at="2019-12-23T06:28:37Z" finished-at="2019-12-23T06:29:29Z">
+    <groups>
+      <group name="Ratikanta_ILP">
+        <method signature="QCStore.RQC_WriteOffRecovery_Txn_Testdata()[pri:4, instance:tests.QCStore@6536e911]" name="RQC_WriteOffRecovery_Txn_Testdata" class="tests.QCStore"/>
+      </group> <!-- Ratikanta_ILP -->
+    </groups>
+    <test name="Test" duration-ms="52078" started-at="2019-12-23T06:28:37Z" finished-at="2019-12-23T06:29:29Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@6536e911]" name="setup" is-config="true" duration-ms="88" started-at="2019-12-23T06:28:37Z" finished-at="2019-12-23T06:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6536e911]" name="killProcess" is-config="true" duration-ms="2020" started-at="2019-12-23T06:28:37Z" finished-at="2019-12-23T06:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="RQC_WriteOffRecovery_Txn_Testdata()[pri:4, instance:tests.QCStore@6536e911]" name="RQC_WriteOffRecovery_Txn_Testdata" duration-ms="49804" started-at="2019-12-23T06:28:39Z" finished-at="2019-12-23T06:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RQC_WriteOffRecovery_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6536e911]" name="getResult" is-config="true" duration-ms="154" started-at="2019-12-23T06:29:29Z" finished-at="2019-12-23T06:29:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RQC_WriteOffRecovery_Txn_Testdata status=SUCCESS method=QCStore.RQC_WriteOffRecovery_Txn_Testdata()[pri:4, instance:tests.QCStore@6536e911] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@6536e911]" name="endReport" is-config="true" duration-ms="0" started-at="2019-12-23T06:29:29Z" finished-at="2019-12-23T06:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
