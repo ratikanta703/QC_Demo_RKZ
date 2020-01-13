@@ -3273,3 +3273,7 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-01-07 14:54:51,065 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Auto\RKZ_ILP\src\main\resources
 2020-01-07 14:54:51,067 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-07 14:54:51,067 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Auto\RKZ_ILP\src\test\resources
+2020-01-13 13:55:10,849 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-13 13:55:10,863 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Demo_RKZ\RKZ_ILP\src\main\resources
+2020-01-13 13:55:10,865 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-13 13:55:10,865 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\QC_Demo_RKZ\RKZ_ILP\src\test\resources
